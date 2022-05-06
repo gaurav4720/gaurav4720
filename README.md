@@ -38,19 +38,19 @@ src="https://raw.githubusercontent.com/gaurav4720/gaurav4720/master/resources/De
 ## <b>Competitive Programming Platforms :-
 <p align="left"> 
  <a 
-    href=https://www.codechef.com/users/gaurav4720
+    href=https://www.codechef.com/users/gaurav25720
     target="blank">
     <img
         src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"
-        alt="https://www.codechef.com/users/gaurav4720" height="30" 
+        alt="https://www.codechef.com/users/gaurav25720" height="30" 
     />
  </a>
  <a 
-    href=https://codeforces.com/profile/gaurav4720 
+    href=https://codeforces.com/profile/gaurav25720 
     target="blank">
     <img 
         src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"
-        alt="https://codeforces.com/profile/gaurav4720" height="30" 
+        alt="https://codeforces.com/profile/gaurav25720" height="30" 
     />
  </a>
 </p>

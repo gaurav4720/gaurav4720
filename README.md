@@ -1,7 +1,7 @@
 <h1 align="center"> 
   Hi 
   <img 
-    src="https://raw.githubusercontent.com/gaurav4720/gaurav4720/master/resources/wave.gif" width="30px">, 
+    src="https://raw.githubusercontent.com/gaurav4720/gaurav4720/master/resources/wave.gif" width="40">, 
     I'm <b>Gaurav Gupta 
 </h1> 
 
